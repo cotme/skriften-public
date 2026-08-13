@@ -30,7 +30,7 @@ const StatmentOfFaithPage = () => {
         <div>
           <h1 className="text-4xl font-bold">The Human Condition</h1>
           <p className="mt-2 leading-relaxed">
-            We believe that God created Adam and Eve in His image, but they sinned when tempted by Satan. In union with Adam, human beings are sinners by nature and by choice, alienated from God, and under His wrath. Only through God’s saving work in Jesus Christ can we be rescued, reconciled and renewed.
+            We believe that God created Adam and Eve in His image, but they sinned when tempted by Satan. In union with Adam, human beings are sinners by nature and by choice, alienated from God, and under His wrath. Only through God's saving work in Jesus Christ can we be rescued, reconciled and renewed.
           </p>
         </div>
         <div>
