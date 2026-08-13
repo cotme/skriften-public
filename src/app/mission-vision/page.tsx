@@ -34,7 +34,7 @@ const MissionVisionPage = () => {
             Skriften is focused on serving the Evangelical Free Church of America, its seventeen districts, and its sixteen-hundred congregations by providing theological education for the training of pastors, ministry leaders, and missionaries.
           </p>
           <p className="leading-relaxed">
-            Skriften holds to the <a href="/mission-vision/statement-of-faith/" className="text-primary underline underline-offset-4 hover:opacity-80">EFCA Statement of Faith</a>, and aligns with the theological convictions held by the association as articulated by its Spiritual Heritage Committee and affirmed at the biennial EFCA conferences. Students who come from other denominations and traditions are welcome to study at this institution.
+            Skriften holds to the <a href="/mission-vision/statement-of-faith" className="text-primary underline underline-offset-4 hover:opacity-80">EFCA Statement of Faith</a>, and aligns with the theological convictions held by the association as articulated by its Spiritual Heritage Committee and affirmed at the biennial EFCA conferences. Students who come from other denominations and traditions are welcome to study at this institution.
           </p>
         </div>
       </div>
