@@ -30,13 +30,13 @@ const StatmentOfFaithPage = () => {
         <div>
           <h1 className="text-4xl font-bold">The Human Condition</h1>
           <p className="mt-2 leading-relaxed">
-            We believe that God created Adam and Eve in His image, but they sinned when tempted by Satan. In union with Adam, human beings are sinners by nature and by choice, alienated from God, and under His wrath. Only through God's saving work in Jesus Christ can we be rescued, reconciled and renewed.
+            We believe that God created Adam and Eve in His image, but they sinned when tempted by Satan. In union with Adam, human beings are sinners by nature and by choice, alienated from God, and under His wrath. Only through God&apos;s saving work in Jesus Christ can we be rescued, reconciled and renewed.
           </p>
         </div>
         <div>
           <h1 className="text-4xl font-bold">Jesus Christ</h1>
           <p className="mt-2 leading-relaxed">
-            We believe that Jesus Christ is God incarnate, fully God and fully man, one Person in two natures. Jesus—Israel's promised Messiah—was conceived through the Holy Spirit and born of the virgin Mary. He lived a sinless life, was crucified under Pontius Pilate, arose bodily from the dead, ascended into heaven and sits at the right hand of God the Father as our High Priest and Advocate.
+            We believe that Jesus Christ is God incarnate, fully God and fully man, one Person in two natures. Jesus—Israel&apos;s promised Messiah—was conceived through the Holy Spirit and born of the virgin Mary. He lived a sinless life, was crucified under Pontius Pilate, arose bodily from the dead, ascended into heaven and sits at the right hand of God the Father as our High Priest and Advocate.
           </p>
         </div>
         <div>
@@ -54,17 +54,17 @@ const StatmentOfFaithPage = () => {
         <div>
           <h1 className="text-4xl font-bold">The Church</h1>
           <p className="mt-2 leading-relaxed">
-            We believe that the true church comprises all who have been justified by God's grace through faith alone in Christ alone. They are united by the Holy Spirit in the body of Christ, of which He is the Head. The true church is manifest in local churches, whose membership should be composed only of believers. The Lord Jesus mandated two ordinances, baptism and the Lord’s Supper, which visibly and tangibly express the gospel. Though they are not the means of salvation, when celebrated by the church in genuine faith, these ordinances confirm and nourish the believer.
+            We believe that the true church comprises all who have been justified by God&apos;s grace through faith alone in Christ alone. They are united by the Holy Spirit in the body of Christ, of which He is the Head. The true church is manifest in local churches, whose membership should be composed only of believers. The Lord Jesus mandated two ordinances, baptism and the Lord&apos;s Supper, which visibly and tangibly express the gospel. Though they are not the means of salvation, when celebrated by the church in genuine faith, these ordinances confirm and nourish the believer.
           </p>
           </div>
           <div>
             <h1 className="text-4xl font-bold">Christian Living</h1>
             <p className="mt-2 leading-relaxed">
-              We believe that God's justifying grace must not be separated from His sanctifying power and purpose. God commands us to love Him supremely and others sacrificially, and to live out our faith with care for one another, compassion toward the poor and justice for the oppressed. With God’s Word, the Spirit’s power, and fervent prayer in Christ’s name, we are to combat the spiritual forces of evil. In obedience to Christ’s commission, we are to make disciples among all people, always bearing witness to the gospel in word and deed.
+              We believe that God&apos;s justifying grace must not be separated from His sanctifying power and purpose. God commands us to love Him supremely and others sacrificially, and to live out our faith with care for one another, compassion toward the poor and justice for the oppressed. With God&apos;s Word, the Spirit&apos;s power, and fervent prayer in Christ&apos;s name, we are to combat the spiritual forces of evil. In obedience to Christ&apos;s commission, we are to make disciples among all people, always bearing witness to the gospel in word and deed.
             </p>
           </div>
           <div>
-            <h1 className="text-4xl font-bold">Christ's Return</h1>
+            <h1 className="text-4xl font-bold">Christ&apos;s Return</h1>
             <p className="mt-2 leading-relaxed">
               We believe in the personal, bodily and glorious return of our Lord Jesus Christ. The coming of Christ, at a time known only to God, demands constant expectancy and, as our blessed hope, motivates the believer to godly living, sacrificial service and energetic mission.
             </p>

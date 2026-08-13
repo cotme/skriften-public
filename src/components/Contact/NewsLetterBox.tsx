@@ -11,7 +11,7 @@ const NewsLatterBox = () => {
         Subscribe to receive future updates
       </h3>
       <p className="border-body-color/25 text-body-color mb-11 border-b pb-11 text-base leading-relaxed dark:border-white/25">
-        A monthly newsletter that gives updates of Skriten's progress as we work towards our innagural class of students.
+        A monthly newsletter that gives updates of Skriten&apos;s progress as we work towards our innagural class of students.
       </p>
       <div>
         <input
